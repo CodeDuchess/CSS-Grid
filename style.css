@@ -51,9 +51,8 @@ p {
 
 #showcase .bg-image {
   position: absolute;
-  background: #333 url
-    
-  backgroud-position: center;
+  background: #333;
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
