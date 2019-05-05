@@ -25,9 +25,12 @@ p {
 
 }
 .btn {
+  display: inline-block;
   background: #333;
- color: white;
- text-decoration: none;
- padding: 1em 2 em;
- border: 1px solid #666;
+  color: white;
+  text-decoration: none;
+  /* 1em on top & bottom/2em on left and right */
+  padding: 1em 2em;
+  border: 1px solid #666;
+  margin: .5em 0;
 }
