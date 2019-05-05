@@ -91,6 +91,7 @@ p {
   }
 
 #section-b li {
+  list-style: none;
   margin-bottom: 1em;
   background: #fff;
   color: #333;
