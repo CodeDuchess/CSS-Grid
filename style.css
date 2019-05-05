@@ -132,7 +132,7 @@ p {
   .grid {
    display: grid;
     /* 4 fractionals create a 4 column grid */
-   grid-template-columns: 1fr repeat(2, minmax(auto,25em) 1fr 
+   grid-template-columns: 1fr repeat(2, minmax(auto,25em) 1fr; 
   }
   .content-wrap, #section-b ul {
    grid-column: 2/4;
