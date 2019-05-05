@@ -134,6 +134,10 @@ p {
     /* 4 fractionals create a 4 column grid */
    grid-template-columns: 1fr 1fr 1fr 1fr 
   }
+  .content-wrap, #section-b ul {
+   grid-column; 2/4;
+  }
+  
 }
 
 
