@@ -78,6 +78,10 @@ p {
   padding-bottom: 2em;
   }
 
+#section-a ul {
+  list-style: none:
+}
+
 /* Section B*/
 #section-b {
    padding: 2em 1em 1em;
