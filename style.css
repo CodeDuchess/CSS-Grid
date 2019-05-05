@@ -112,7 +112,7 @@ p {
   }
 
 /* use pseudo class to target one particular box */
-#section-d .box-first-child {
+#section-d .box:first-child {
  background: #2690d4;
   }
 
