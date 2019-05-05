@@ -125,3 +125,28 @@ p {
   color: #fff;
   text-align: center;
   }
+
+/* Media Queries */
+/* Media Queries are a technique for delivering a responsive web design to desktops, laptops, tablets, and mobile phones */
+@media(min-width: 700px) {
+  .grid {
+   display: grid;
+    /* 4 fractionals create a 4 column grid */
+   grid-template-columns: 1fr 1fr 1fr 1fr 
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
