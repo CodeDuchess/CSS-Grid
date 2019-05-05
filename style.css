@@ -80,10 +80,47 @@ p {
 
 /* Section B*/
 #section-b {
- 
+   padding: 2em 1em 1em;
 }
 
+#section-b ul {
+  /* this removes the bullets from the <li> */
+   list-style: none;
+   margin: 0;
+   padding: 0;
+  }
 
+#section-b li {
+  margin-bottom: 1em;
+  background: #fff;
+  color: #333;
+  }
 
+.card-content {
+   padding: 1.5em;
+  }
 
+#section-c {
+  background: #fff;
+  color: #333;
+  padding: 2em;
+  }
 
+#section-d .box {
+  padding: 2em;
+  color: #fff;
+  }
+
+/* use pseudo class to target one particular box */
+#section-d .box-first-child {
+ background: #2690d4;
+  }
+
+/* Footer */
+
+#main-footer {
+  padding: 2em;
+  background: #000;
+  color: #fff;
+  text-align: center;
+  }
