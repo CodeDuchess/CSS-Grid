@@ -97,6 +97,7 @@ p {
   }
 
 .card-content {
+   list-style: none;
    padding: 1.5em;
   }
 
